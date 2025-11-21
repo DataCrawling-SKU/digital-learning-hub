@@ -26,9 +26,9 @@ if selected_region:
       with st.container():
         st.markdown(f"""
                     <div style="background-color: white; padding: 20px; border-radius: 10px; margin-bottom: 15px; border-left: 4px solid #667eea;">
-                        <h3>{center['배움터명']}</h3>
-                        <p><strong>주소:</strong> {center['배움터주소']}</p>
-                        <p><strong>유형:</strong> {center['배움터 유형']} | <strong>정원:</strong> {center['이용정원']}명</p>
+                        <h3 style="color: black;">{center['배움터명']}</h3>
+                        <p style="color: black;"><strong>주소:</strong> {center['배움터주소']}</p>
+                        <p style="color: black;"><strong>유형:</strong> {center['배움터 유형']} | <strong>정원:</strong> {center['이용정원']}명</p>
                     </div>
                 """, unsafe_allow_html=True)
   else:
