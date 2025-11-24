@@ -40,7 +40,7 @@ def apply_form(center):
     with col1:
       submitted = st.form_submit_button("제출", use_container_width=True)
     with col2:
-      if st.form_submit_button("목록으로", use_container_width=True):
+      if st.form_submit_button("처음으로", use_container_width=True):
         st.session_state.selected_center = None
         st.rerun()
 
