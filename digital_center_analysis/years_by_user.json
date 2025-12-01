@@ -1,0 +1,2102 @@
+[
+    {
+        "cnt": 1,
+        "year": 2022,
+        "sido": "서울특별시",
+        "sigungu": "종로구",
+        "user": 2672
+    },
+    {
+        "cnt": 2,
+        "year": 2022,
+        "sido": "서울특별시",
+        "sigungu": "중구",
+        "user": 3964
+    },
+    {
+        "cnt": 3,
+        "year": 2022,
+        "sido": "서울특별시",
+        "sigungu": "용산구",
+        "user": 2607
+    },
+    {
+        "cnt": 4,
+        "year": 2022,
+        "sido": "서울특별시",
+        "sigungu": "성동구",
+        "user": 2806
+    },
+    {
+        "cnt": 5,
+        "year": 2022,
+        "sido": "서울특별시",
+        "sigungu": "광진구",
+        "user": 3312
+    },
+    {
+        "cnt": 6,
+        "year": 2022,
+        "sido": "서울특별시",
+        "sigungu": "동대문구",
+        "user": 2548
+    },
+    {
+        "cnt": 7,
+        "year": 2022,
+        "sido": "서울특별시",
+        "sigungu": "중랑구",
+        "user": 2854
+    },
+    {
+        "cnt": 8,
+        "year": 2022,
+        "sido": "서울특별시",
+        "sigungu": "성북구",
+        "user": 3252
+    },
+    {
+        "cnt": 9,
+        "year": 2022,
+        "sido": "서울특별시",
+        "sigungu": "강북구",
+        "user": 5544
+    },
+    {
+        "cnt": 10,
+        "year": 2022,
+        "sido": "서울특별시",
+        "sigungu": "도봉구",
+        "user": 4133
+    },
+    {
+        "cnt": 11,
+        "year": 2022,
+        "sido": "서울특별시",
+        "sigungu": "노원구",
+        "user": 4627
+    },
+    {
+        "cnt": 12,
+        "year": 2022,
+        "sido": "서울특별시",
+        "sigungu": "은평구",
+        "user": 5347
+    },
+    {
+        "cnt": 13,
+        "year": 2022,
+        "sido": "서울특별시",
+        "sigungu": "서대문구",
+        "user": 3405
+    },
+    {
+        "cnt": 14,
+        "year": 2022,
+        "sido": "서울특별시",
+        "sigungu": "마포구",
+        "user": 3423
+    },
+    {
+        "cnt": 15,
+        "year": 2022,
+        "sido": "서울특별시",
+        "sigungu": "양천구",
+        "user": 3038
+    },
+    {
+        "cnt": 16,
+        "year": 2022,
+        "sido": "서울특별시",
+        "sigungu": "강서구",
+        "user": 3406
+    },
+    {
+        "cnt": 17,
+        "year": 2022,
+        "sido": "서울특별시",
+        "sigungu": "구로구",
+        "user": 4799
+    },
+    {
+        "cnt": 18,
+        "year": 2022,
+        "sido": "서울특별시",
+        "sigungu": "금천구",
+        "user": 3747
+    },
+    {
+        "cnt": 19,
+        "year": 2022,
+        "sido": "서울특별시",
+        "sigungu": "영등포구",
+        "user": 3809
+    },
+    {
+        "cnt": 20,
+        "year": 2022,
+        "sido": "서울특별시",
+        "sigungu": "동작구",
+        "user": 3663
+    },
+    {
+        "cnt": 21,
+        "year": 2022,
+        "sido": "서울특별시",
+        "sigungu": "관악구",
+        "user": 2929
+    },
+    {
+        "cnt": 22,
+        "year": 2022,
+        "sido": "서울특별시",
+        "sigungu": "서초구",
+        "user": 3010
+    },
+    {
+        "cnt": 23,
+        "year": 2022,
+        "sido": "서울특별시",
+        "sigungu": "강남구",
+        "user": 2151
+    },
+    {
+        "cnt": 24,
+        "year": 2022,
+        "sido": "서울특별시",
+        "sigungu": "송파구",
+        "user": 3697
+    },
+    {
+        "cnt": 25,
+        "year": 2022,
+        "sido": "서울특별시",
+        "sigungu": "강동구",
+        "user": 5314
+    },
+    {
+        "cnt": 26,
+        "year": 2022,
+        "sido": "부산광역시",
+        "sigungu": "중구",
+        "user": 3524
+    },
+    {
+        "cnt": 27,
+        "year": 2022,
+        "sido": "부산광역시",
+        "sigungu": "서구",
+        "user": 3654
+    },
+    {
+        "cnt": 28,
+        "year": 2022,
+        "sido": "부산광역시",
+        "sigungu": "동구",
+        "user": 3671
+    },
+    {
+        "cnt": 29,
+        "year": 2022,
+        "sido": "부산광역시",
+        "sigungu": "영도구",
+        "user": 3053
+    },
+    {
+        "cnt": 30,
+        "year": 2022,
+        "sido": "부산광역시",
+        "sigungu": "부산진구",
+        "user": 7775
+    },
+    {
+        "cnt": 31,
+        "year": 2022,
+        "sido": "부산광역시",
+        "sigungu": "동래구",
+        "user": 7294
+    },
+    {
+        "cnt": 32,
+        "year": 2022,
+        "sido": "부산광역시",
+        "sigungu": "남구",
+        "user": 2862
+    },
+    {
+        "cnt": 33,
+        "year": 2022,
+        "sido": "부산광역시",
+        "sigungu": "북구",
+        "user": 4332
+    },
+    {
+        "cnt": 34,
+        "year": 2022,
+        "sido": "부산광역시",
+        "sigungu": "해운대구",
+        "user": 3586
+    },
+    {
+        "cnt": 35,
+        "year": 2022,
+        "sido": "부산광역시",
+        "sigungu": "사하구",
+        "user": 3841
+    },
+    {
+        "cnt": 36,
+        "year": 2022,
+        "sido": "부산광역시",
+        "sigungu": "금정구",
+        "user": 4447
+    },
+    {
+        "cnt": 37,
+        "year": 2022,
+        "sido": "부산광역시",
+        "sigungu": "강서구",
+        "user": 4317
+    },
+    {
+        "cnt": 38,
+        "year": 2022,
+        "sido": "부산광역시",
+        "sigungu": "연제구",
+        "user": 4544
+    },
+    {
+        "cnt": 39,
+        "year": 2022,
+        "sido": "부산광역시",
+        "sigungu": "수영구",
+        "user": 4264
+    },
+    {
+        "cnt": 40,
+        "year": 2022,
+        "sido": "부산광역시",
+        "sigungu": "사상구",
+        "user": 3551
+    },
+    {
+        "cnt": 41,
+        "year": 2022,
+        "sido": "부산광역시",
+        "sigungu": "기장군",
+        "user": 3972
+    },
+    {
+        "cnt": 42,
+        "year": 2022,
+        "sido": "대구광역시",
+        "sigungu": "중구",
+        "user": 2251
+    },
+    {
+        "cnt": 43,
+        "year": 2022,
+        "sido": "대구광역시",
+        "sigungu": "동구",
+        "user": 5887
+    },
+    {
+        "cnt": 44,
+        "year": 2022,
+        "sido": "대구광역시",
+        "sigungu": "서구",
+        "user": 4600
+    },
+    {
+        "cnt": 45,
+        "year": 2022,
+        "sido": "대구광역시",
+        "sigungu": "남구",
+        "user": 5157
+    },
+    {
+        "cnt": 46,
+        "year": 2022,
+        "sido": "대구광역시",
+        "sigungu": "북구",
+        "user": 4784
+    },
+    {
+        "cnt": 47,
+        "year": 2022,
+        "sido": "대구광역시",
+        "sigungu": "수성구",
+        "user": 1709
+    },
+    {
+        "cnt": 48,
+        "year": 2022,
+        "sido": "대구광역시",
+        "sigungu": "달서구",
+        "user": 6331
+    },
+    {
+        "cnt": 49,
+        "year": 2022,
+        "sido": "대구광역시",
+        "sigungu": "달성군",
+        "user": 1548
+    },
+    {
+        "cnt": 50,
+        "year": 2022,
+        "sido": "인천광역시",
+        "sigungu": "중구",
+        "user": 2542
+    },
+    {
+        "cnt": 51,
+        "year": 2022,
+        "sido": "인천광역시",
+        "sigungu": "동구",
+        "user": 1659
+    },
+    {
+        "cnt": 52,
+        "year": 2022,
+        "sido": "인천광역시",
+        "sigungu": "미추홀구",
+        "user": 3285
+    },
+    {
+        "cnt": 53,
+        "year": 2022,
+        "sido": "인천광역시",
+        "sigungu": "연수구",
+        "user": 3837
+    },
+    {
+        "cnt": 54,
+        "year": 2022,
+        "sido": "인천광역시",
+        "sigungu": "남동구",
+        "user": 5325
+    },
+    {
+        "cnt": 55,
+        "year": 2022,
+        "sido": "인천광역시",
+        "sigungu": "부평구",
+        "user": 2273
+    },
+    {
+        "cnt": 56,
+        "year": 2022,
+        "sido": "인천광역시",
+        "sigungu": "계양구",
+        "user": 4519
+    },
+    {
+        "cnt": 57,
+        "year": 2022,
+        "sido": "인천광역시",
+        "sigungu": "서구",
+        "user": 4248
+    },
+    {
+        "cnt": 58,
+        "year": 2022,
+        "sido": "인천광역시",
+        "sigungu": "강화군",
+        "user": 599
+    },
+    {
+        "cnt": 59,
+        "year": 2022,
+        "sido": "인천광역시",
+        "sigungu": "옹진군",
+        "user": 522
+    },
+    {
+        "cnt": 60,
+        "year": 2022,
+        "sido": "광주광역시",
+        "sigungu": "동구",
+        "user": 6288
+    },
+    {
+        "cnt": 61,
+        "year": 2022,
+        "sido": "광주광역시",
+        "sigungu": "서구",
+        "user": 5610
+    },
+    {
+        "cnt": 62,
+        "year": 2022,
+        "sido": "광주광역시",
+        "sigungu": "남구",
+        "user": 5889
+    },
+    {
+        "cnt": 63,
+        "year": 2022,
+        "sido": "광주광역시",
+        "sigungu": "북구",
+        "user": 5102
+    },
+    {
+        "cnt": 64,
+        "year": 2022,
+        "sido": "광주광역시",
+        "sigungu": "광산구",
+        "user": 5405
+    },
+    {
+        "cnt": 65,
+        "year": 2022,
+        "sido": "대전광역시",
+        "sigungu": "동구",
+        "user": 4685
+    },
+    {
+        "cnt": 66,
+        "year": 2022,
+        "sido": "대전광역시",
+        "sigungu": "중구",
+        "user": 7329
+    },
+    {
+        "cnt": 67,
+        "year": 2022,
+        "sido": "대전광역시",
+        "sigungu": "서구",
+        "user": 7344
+    },
+    {
+        "cnt": 68,
+        "year": 2022,
+        "sido": "대전광역시",
+        "sigungu": "유성구",
+        "user": 7673
+    },
+    {
+        "cnt": 69,
+        "year": 2022,
+        "sido": "대전광역시",
+        "sigungu": "대덕구",
+        "user": 2654
+    },
+    {
+        "cnt": 70,
+        "year": 2022,
+        "sido": "울산광역시",
+        "sigungu": "중구",
+        "user": 2523
+    },
+    {
+        "cnt": 71,
+        "year": 2022,
+        "sido": "울산광역시",
+        "sigungu": "남구",
+        "user": 4873
+    },
+    {
+        "cnt": 72,
+        "year": 2022,
+        "sido": "울산광역시",
+        "sigungu": "동구",
+        "user": 1938
+    },
+    {
+        "cnt": 73,
+        "year": 2022,
+        "sido": "울산광역시",
+        "sigungu": "북구",
+        "user": 2548
+    },
+    {
+        "cnt": 74,
+        "year": 2022,
+        "sido": "울산광역시",
+        "sigungu": "울주군",
+        "user": 3347
+    },
+    {
+        "cnt": 75,
+        "year": 2022,
+        "sido": "세종특별자치시",
+        "sigungu": "세종특별자치시",
+        "user": 8550
+    },
+    {
+        "cnt": 76,
+        "year": 2022,
+        "sido": "경기도",
+        "sigungu": "수원시",
+        "user": 21737
+    },
+    {
+        "cnt": 77,
+        "year": 2022,
+        "sido": "경기도",
+        "sigungu": "용인시",
+        "user": 375
+    },
+    {
+        "cnt": 78,
+        "year": 2022,
+        "sido": "경기도",
+        "sigungu": "성남시",
+        "user": 924
+    },
+    {
+        "cnt": 79,
+        "year": 2022,
+        "sido": "경기도",
+        "sigungu": "부천시",
+        "user": 4757
+    },
+    {
+        "cnt": 80,
+        "year": 2022,
+        "sido": "경기도",
+        "sigungu": "화성시",
+        "user": 360
+    },
+    {
+        "cnt": 81,
+        "year": 2022,
+        "sido": "경기도",
+        "sigungu": "안산시",
+        "user": 14648
+    },
+    {
+        "cnt": 82,
+        "year": 2022,
+        "sido": "경기도",
+        "sigungu": "안양시",
+        "user": 808
+    },
+    {
+        "cnt": 83,
+        "year": 2022,
+        "sido": "경기도",
+        "sigungu": "평택시",
+        "user": 659
+    },
+    {
+        "cnt": 84,
+        "year": 2022,
+        "sido": "경기도",
+        "sigungu": "시흥시",
+        "user": 6439
+    },
+    {
+        "cnt": 85,
+        "year": 2022,
+        "sido": "경기도",
+        "sigungu": "김포시",
+        "user": 2408
+    },
+    {
+        "cnt": 86,
+        "year": 2022,
+        "sido": "경기도",
+        "sigungu": "광주시",
+        "user": 412
+    },
+    {
+        "cnt": 87,
+        "year": 2022,
+        "sido": "경기도",
+        "sigungu": "광명시",
+        "user": 3636
+    },
+    {
+        "cnt": 88,
+        "year": 2022,
+        "sido": "경기도",
+        "sigungu": "군포시",
+        "user": 942
+    },
+    {
+        "cnt": 89,
+        "year": 2022,
+        "sido": "경기도",
+        "sigungu": "하남시",
+        "user": 1654
+    },
+    {
+        "cnt": 90,
+        "year": 2022,
+        "sido": "경기도",
+        "sigungu": "오산시",
+        "user": 2018
+    },
+    {
+        "cnt": 91,
+        "year": 2022,
+        "sido": "경기도",
+        "sigungu": "이천시",
+        "user": 409
+    },
+    {
+        "cnt": 92,
+        "year": 2022,
+        "sido": "경기도",
+        "sigungu": "안성시",
+        "user": 1545
+    },
+    {
+        "cnt": 93,
+        "year": 2022,
+        "sido": "경기도",
+        "sigungu": "의왕시",
+        "user": 415
+    },
+    {
+        "cnt": 94,
+        "year": 2022,
+        "sido": "경기도",
+        "sigungu": "양평군",
+        "user": 1340
+    },
+    {
+        "cnt": 95,
+        "year": 2022,
+        "sido": "경기도",
+        "sigungu": "여주시",
+        "user": 1063
+    },
+    {
+        "cnt": 96,
+        "year": 2022,
+        "sido": "경기도",
+        "sigungu": "과천시",
+        "user": 370
+    },
+    {
+        "cnt": 97,
+        "year": 2022,
+        "sido": "경기도",
+        "sigungu": "고양시",
+        "user": 777
+    },
+    {
+        "cnt": 98,
+        "year": 2022,
+        "sido": "경기도",
+        "sigungu": "남양주시",
+        "user": 635
+    },
+    {
+        "cnt": 99,
+        "year": 2022,
+        "sido": "경기도",
+        "sigungu": "파주시",
+        "user": 534
+    },
+    {
+        "cnt": 100,
+        "year": 2022,
+        "sido": "경기도",
+        "sigungu": "의정부시",
+        "user": 4386
+    },
+    {
+        "cnt": 101,
+        "year": 2023,
+        "sido": "서울특별시",
+        "sigungu": "종로구",
+        "user": 2726
+    },
+    {
+        "cnt": 102,
+        "year": 2023,
+        "sido": "서울특별시",
+        "sigungu": "중구",
+        "user": 3662
+    },
+    {
+        "cnt": 103,
+        "year": 2023,
+        "sido": "서울특별시",
+        "sigungu": "용산구",
+        "user": 2668
+    },
+    {
+        "cnt": 104,
+        "year": 2023,
+        "sido": "서울특별시",
+        "sigungu": "성동구",
+        "user": 5094
+    },
+    {
+        "cnt": 105,
+        "year": 2023,
+        "sido": "서울특별시",
+        "sigungu": "광진구",
+        "user": 3246
+    },
+    {
+        "cnt": 106,
+        "year": 2023,
+        "sido": "서울특별시",
+        "sigungu": "동대문구",
+        "user": 3028
+    },
+    {
+        "cnt": 107,
+        "year": 2023,
+        "sido": "서울특별시",
+        "sigungu": "중랑구",
+        "user": 2805
+    },
+    {
+        "cnt": 108,
+        "year": 2023,
+        "sido": "서울특별시",
+        "sigungu": "성북구",
+        "user": 4521
+    },
+    {
+        "cnt": 109,
+        "year": 2023,
+        "sido": "서울특별시",
+        "sigungu": "강북구",
+        "user": 7292
+    },
+    {
+        "cnt": 110,
+        "year": 2023,
+        "sido": "서울특별시",
+        "sigungu": "도봉구",
+        "user": 4424
+    },
+    {
+        "cnt": 111,
+        "year": 2023,
+        "sido": "서울특별시",
+        "sigungu": "노원구",
+        "user": 7399
+    },
+    {
+        "cnt": 112,
+        "year": 2023,
+        "sido": "서울특별시",
+        "sigungu": "은평구",
+        "user": 8232
+    },
+    {
+        "cnt": 113,
+        "year": 2023,
+        "sido": "서울특별시",
+        "sigungu": "서대문구",
+        "user": 3874
+    },
+    {
+        "cnt": 114,
+        "year": 2023,
+        "sido": "서울특별시",
+        "sigungu": "마포구",
+        "user": 6524
+    },
+    {
+        "cnt": 115,
+        "year": 2023,
+        "sido": "서울특별시",
+        "sigungu": "양천구",
+        "user": 4808
+    },
+    {
+        "cnt": 116,
+        "year": 2023,
+        "sido": "서울특별시",
+        "sigungu": "강서구",
+        "user": 5672
+    },
+    {
+        "cnt": 117,
+        "year": 2023,
+        "sido": "서울특별시",
+        "sigungu": "구로구",
+        "user": 4989
+    },
+    {
+        "cnt": 118,
+        "year": 2023,
+        "sido": "서울특별시",
+        "sigungu": "금천구",
+        "user": 3237
+    },
+    {
+        "cnt": 119,
+        "year": 2023,
+        "sido": "서울특별시",
+        "sigungu": "영등포구",
+        "user": 3580
+    },
+    {
+        "cnt": 120,
+        "year": 2023,
+        "sido": "서울특별시",
+        "sigungu": "동작구",
+        "user": 5013
+    },
+    {
+        "cnt": 121,
+        "year": 2023,
+        "sido": "서울특별시",
+        "sigungu": "관악구",
+        "user": 3396
+    },
+    {
+        "cnt": 122,
+        "year": 2023,
+        "sido": "서울특별시",
+        "sigungu": "서초구",
+        "user": 3818
+    },
+    {
+        "cnt": 123,
+        "year": 2023,
+        "sido": "서울특별시",
+        "sigungu": "강남구",
+        "user": 2096
+    },
+    {
+        "cnt": 124,
+        "year": 2023,
+        "sido": "서울특별시",
+        "sigungu": "송파구",
+        "user": 4663
+    },
+    {
+        "cnt": 125,
+        "year": 2023,
+        "sido": "서울특별시",
+        "sigungu": "강동구",
+        "user": 9248
+    },
+    {
+        "cnt": 126,
+        "year": 2023,
+        "sido": "부산광역시",
+        "sigungu": "중구",
+        "user": 3793
+    },
+    {
+        "cnt": 127,
+        "year": 2023,
+        "sido": "부산광역시",
+        "sigungu": "서구",
+        "user": 4582
+    },
+    {
+        "cnt": 128,
+        "year": 2023,
+        "sido": "부산광역시",
+        "sigungu": "동구",
+        "user": 6715
+    },
+    {
+        "cnt": 129,
+        "year": 2023,
+        "sido": "부산광역시",
+        "sigungu": "영도구",
+        "user": 4245
+    },
+    {
+        "cnt": 130,
+        "year": 2023,
+        "sido": "부산광역시",
+        "sigungu": "부산진구",
+        "user": 10318
+    },
+    {
+        "cnt": 131,
+        "year": 2023,
+        "sido": "부산광역시",
+        "sigungu": "동래구",
+        "user": 11024
+    },
+    {
+        "cnt": 132,
+        "year": 2023,
+        "sido": "부산광역시",
+        "sigungu": "남구",
+        "user": 6158
+    },
+    {
+        "cnt": 133,
+        "year": 2023,
+        "sido": "부산광역시",
+        "sigungu": "북구",
+        "user": 8141
+    },
+    {
+        "cnt": 134,
+        "year": 2023,
+        "sido": "부산광역시",
+        "sigungu": "해운대구",
+        "user": 6784
+    },
+    {
+        "cnt": 135,
+        "year": 2023,
+        "sido": "부산광역시",
+        "sigungu": "사하구",
+        "user": 6105
+    },
+    {
+        "cnt": 136,
+        "year": 2023,
+        "sido": "부산광역시",
+        "sigungu": "금정구",
+        "user": 7328
+    },
+    {
+        "cnt": 137,
+        "year": 2023,
+        "sido": "부산광역시",
+        "sigungu": "강서구",
+        "user": 7606
+    },
+    {
+        "cnt": 138,
+        "year": 2023,
+        "sido": "부산광역시",
+        "sigungu": "연제구",
+        "user": 7020
+    },
+    {
+        "cnt": 139,
+        "year": 2023,
+        "sido": "부산광역시",
+        "sigungu": "수영구",
+        "user": 6257
+    },
+    {
+        "cnt": 140,
+        "year": 2023,
+        "sido": "부산광역시",
+        "sigungu": "사상구",
+        "user": 6947
+    },
+    {
+        "cnt": 141,
+        "year": 2023,
+        "sido": "부산광역시",
+        "sigungu": "기장군",
+        "user": 4517
+    },
+    {
+        "cnt": 142,
+        "year": 2023,
+        "sido": "대구광역시",
+        "sigungu": "중구",
+        "user": 3809
+    },
+    {
+        "cnt": 143,
+        "year": 2023,
+        "sido": "대구광역시",
+        "sigungu": "동구",
+        "user": 7279
+    },
+    {
+        "cnt": 144,
+        "year": 2023,
+        "sido": "대구광역시",
+        "sigungu": "서구",
+        "user": 8699
+    },
+    {
+        "cnt": 145,
+        "year": 2023,
+        "sido": "대구광역시",
+        "sigungu": "남구",
+        "user": 5348
+    },
+    {
+        "cnt": 146,
+        "year": 2023,
+        "sido": "대구광역시",
+        "sigungu": "북구",
+        "user": 5023
+    },
+    {
+        "cnt": 147,
+        "year": 2023,
+        "sido": "대구광역시",
+        "sigungu": "수성구",
+        "user": 2002
+    },
+    {
+        "cnt": 148,
+        "year": 2023,
+        "sido": "대구광역시",
+        "sigungu": "달서구",
+        "user": 8834
+    },
+    {
+        "cnt": 149,
+        "year": 2023,
+        "sido": "대구광역시",
+        "sigungu": "달성군",
+        "user": 2025
+    },
+    {
+        "cnt": 150,
+        "year": 2023,
+        "sido": "인천광역시",
+        "sigungu": "중구",
+        "user": 2907
+    },
+    {
+        "cnt": 151,
+        "year": 2023,
+        "sido": "인천광역시",
+        "sigungu": "동구",
+        "user": 882
+    },
+    {
+        "cnt": 152,
+        "year": 2023,
+        "sido": "인천광역시",
+        "sigungu": "미추홀구",
+        "user": 3750
+    },
+    {
+        "cnt": 153,
+        "year": 2023,
+        "sido": "인천광역시",
+        "sigungu": "연수구",
+        "user": 4373
+    },
+    {
+        "cnt": 154,
+        "year": 2023,
+        "sido": "인천광역시",
+        "sigungu": "남동구",
+        "user": 5658
+    },
+    {
+        "cnt": 155,
+        "year": 2023,
+        "sido": "인천광역시",
+        "sigungu": "부평구",
+        "user": 2061
+    },
+    {
+        "cnt": 156,
+        "year": 2023,
+        "sido": "인천광역시",
+        "sigungu": "계양구",
+        "user": 4585
+    },
+    {
+        "cnt": 157,
+        "year": 2023,
+        "sido": "인천광역시",
+        "sigungu": "서구",
+        "user": 4417
+    },
+    {
+        "cnt": 158,
+        "year": 2023,
+        "sido": "인천광역시",
+        "sigungu": "강화군",
+        "user": 1228
+    },
+    {
+        "cnt": 159,
+        "year": 2023,
+        "sido": "인천광역시",
+        "sigungu": "옹진군",
+        "user": 589
+    },
+    {
+        "cnt": 160,
+        "year": 2023,
+        "sido": "광주광역시",
+        "sigungu": "동구",
+        "user": 5446
+    },
+    {
+        "cnt": 161,
+        "year": 2023,
+        "sido": "광주광역시",
+        "sigungu": "서구",
+        "user": 7668
+    },
+    {
+        "cnt": 162,
+        "year": 2023,
+        "sido": "광주광역시",
+        "sigungu": "남구",
+        "user": 5782
+    },
+    {
+        "cnt": 163,
+        "year": 2023,
+        "sido": "광주광역시",
+        "sigungu": "북구",
+        "user": 6672
+    },
+    {
+        "cnt": 164,
+        "year": 2023,
+        "sido": "광주광역시",
+        "sigungu": "광산구",
+        "user": 4985
+    },
+    {
+        "cnt": 165,
+        "year": 2023,
+        "sido": "대전광역시",
+        "sigungu": "동구",
+        "user": 6878
+    },
+    {
+        "cnt": 166,
+        "year": 2023,
+        "sido": "대전광역시",
+        "sigungu": "중구",
+        "user": 10094
+    },
+    {
+        "cnt": 167,
+        "year": 2023,
+        "sido": "대전광역시",
+        "sigungu": "서구",
+        "user": 10334
+    },
+    {
+        "cnt": 168,
+        "year": 2023,
+        "sido": "대전광역시",
+        "sigungu": "유성구",
+        "user": 12576
+    },
+    {
+        "cnt": 169,
+        "year": 2023,
+        "sido": "대전광역시",
+        "sigungu": "대덕구",
+        "user": 3153
+    },
+    {
+        "cnt": 170,
+        "year": 2023,
+        "sido": "울산광역시",
+        "sigungu": "중구",
+        "user": 4177
+    },
+    {
+        "cnt": 171,
+        "year": 2023,
+        "sido": "울산광역시",
+        "sigungu": "남구",
+        "user": 5485
+    },
+    {
+        "cnt": 172,
+        "year": 2023,
+        "sido": "울산광역시",
+        "sigungu": "동구",
+        "user": 4676
+    },
+    {
+        "cnt": 173,
+        "year": 2023,
+        "sido": "울산광역시",
+        "sigungu": "북구",
+        "user": 2839
+    },
+    {
+        "cnt": 174,
+        "year": 2023,
+        "sido": "울산광역시",
+        "sigungu": "울주군",
+        "user": 3947
+    },
+    {
+        "cnt": 175,
+        "year": 2023,
+        "sido": "세종특별자치시",
+        "sigungu": "세종특별자치시",
+        "user": 12542
+    },
+    {
+        "cnt": 176,
+        "year": 2023,
+        "sido": "경기도",
+        "sigungu": "수원시",
+        "user": 22509
+    },
+    {
+        "cnt": 177,
+        "year": 2023,
+        "sido": "경기도",
+        "sigungu": "용인시",
+        "user": 3739
+    },
+    {
+        "cnt": 178,
+        "year": 2023,
+        "sido": "경기도",
+        "sigungu": "성남시",
+        "user": 1494
+    },
+    {
+        "cnt": 179,
+        "year": 2023,
+        "sido": "경기도",
+        "sigungu": "부천시",
+        "user": 7609
+    },
+    {
+        "cnt": 180,
+        "year": 2023,
+        "sido": "경기도",
+        "sigungu": "화성시",
+        "user": 879
+    },
+    {
+        "cnt": 181,
+        "year": 2023,
+        "sido": "경기도",
+        "sigungu": "안산시",
+        "user": 21418
+    },
+    {
+        "cnt": 182,
+        "year": 2023,
+        "sido": "경기도",
+        "sigungu": "안양시",
+        "user": 1325
+    },
+    {
+        "cnt": 183,
+        "year": 2023,
+        "sido": "경기도",
+        "sigungu": "평택시",
+        "user": 3197
+    },
+    {
+        "cnt": 184,
+        "year": 2023,
+        "sido": "경기도",
+        "sigungu": "시흥시",
+        "user": 6073
+    },
+    {
+        "cnt": 185,
+        "year": 2023,
+        "sido": "경기도",
+        "sigungu": "김포시",
+        "user": 5625
+    },
+    {
+        "cnt": 186,
+        "year": 2023,
+        "sido": "경기도",
+        "sigungu": "광주시",
+        "user": 597
+    },
+    {
+        "cnt": 187,
+        "year": 2023,
+        "sido": "경기도",
+        "sigungu": "광명시",
+        "user": 4331
+    },
+    {
+        "cnt": 188,
+        "year": 2023,
+        "sido": "경기도",
+        "sigungu": "군포시",
+        "user": 1448
+    },
+    {
+        "cnt": 189,
+        "year": 2023,
+        "sido": "경기도",
+        "sigungu": "하남시",
+        "user": 3442
+    },
+    {
+        "cnt": 190,
+        "year": 2023,
+        "sido": "경기도",
+        "sigungu": "오산시",
+        "user": 3119
+    },
+    {
+        "cnt": 191,
+        "year": 2023,
+        "sido": "경기도",
+        "sigungu": "이천시",
+        "user": 1093
+    },
+    {
+        "cnt": 192,
+        "year": 2023,
+        "sido": "경기도",
+        "sigungu": "안성시",
+        "user": 2332
+    },
+    {
+        "cnt": 193,
+        "year": 2023,
+        "sido": "경기도",
+        "sigungu": "의왕시",
+        "user": 4403
+    },
+    {
+        "cnt": 194,
+        "year": 2023,
+        "sido": "경기도",
+        "sigungu": "양평군",
+        "user": 1394
+    },
+    {
+        "cnt": 195,
+        "year": 2023,
+        "sido": "경기도",
+        "sigungu": "여주시",
+        "user": 2822
+    },
+    {
+        "cnt": 196,
+        "year": 2023,
+        "sido": "경기도",
+        "sigungu": "과천시",
+        "user": 637
+    },
+    {
+        "cnt": 197,
+        "year": 2023,
+        "sido": "경기도",
+        "sigungu": "고양시",
+        "user": 1075
+    },
+    {
+        "cnt": 198,
+        "year": 2023,
+        "sido": "경기도",
+        "sigungu": "남양주시",
+        "user": 802
+    },
+    {
+        "cnt": 199,
+        "year": 2023,
+        "sido": "경기도",
+        "sigungu": "파주시",
+        "user": 744
+    },
+    {
+        "cnt": 200,
+        "year": 2023,
+        "sido": "경기도",
+        "sigungu": "의정부시",
+        "user": 793
+    },
+    {
+        "cnt": 201,
+        "year": 2024,
+        "sido": "강원특별자치도",
+        "sigungu": "강릉시",
+        "user": 2890
+    },
+    {
+        "cnt": 202,
+        "year": 2024,
+        "sido": "강원특별자치도",
+        "sigungu": "고성군",
+        "user": 46
+    },
+    {
+        "cnt": 203,
+        "year": 2024,
+        "sido": "강원특별자치도",
+        "sigungu": "동해시",
+        "user": 1754
+    },
+    {
+        "cnt": 204,
+        "year": 2024,
+        "sido": "강원특별자치도",
+        "sigungu": "삼척시",
+        "user": 420
+    },
+    {
+        "cnt": 205,
+        "year": 2024,
+        "sido": "강원특별자치도",
+        "sigungu": "속초시",
+        "user": 168
+    },
+    {
+        "cnt": 206,
+        "year": 2024,
+        "sido": "강원특별자치도",
+        "sigungu": "양구군",
+        "user": 107
+    },
+    {
+        "cnt": 207,
+        "year": 2024,
+        "sido": "강원특별자치도",
+        "sigungu": "양양군",
+        "user": 262
+    },
+    {
+        "cnt": 208,
+        "year": 2024,
+        "sido": "강원특별자치도",
+        "sigungu": "영월군",
+        "user": 565
+    },
+    {
+        "cnt": 209,
+        "year": 2024,
+        "sido": "강원특별자치도",
+        "sigungu": "원주시",
+        "user": 7194
+    },
+    {
+        "cnt": 210,
+        "year": 2024,
+        "sido": "강원특별자치도",
+        "sigungu": "인제군",
+        "user": 355
+    },
+    {
+        "cnt": 211,
+        "year": 2024,
+        "sido": "강원특별자치도",
+        "sigungu": "정선군",
+        "user": 179
+    },
+    {
+        "cnt": 212,
+        "year": 2024,
+        "sido": "강원특별자치도",
+        "sigungu": "철원군",
+        "user": 12
+    },
+    {
+        "cnt": 213,
+        "year": 2024,
+        "sido": "강원특별자치도",
+        "sigungu": "춘천시",
+        "user": 4205
+    },
+    {
+        "cnt": 214,
+        "year": 2024,
+        "sido": "강원특별자치도",
+        "sigungu": "태백시",
+        "user": 48
+    },
+    {
+        "cnt": 215,
+        "year": 2024,
+        "sido": "강원특별자치도",
+        "sigungu": "평창군",
+        "user": 106
+    },
+    {
+        "cnt": 216,
+        "year": 2024,
+        "sido": "강원특별자치도",
+        "sigungu": "홍천군",
+        "user": 887
+    },
+    {
+        "cnt": 217,
+        "year": 2024,
+        "sido": "강원특별자치도",
+        "sigungu": "화천군",
+        "user": 12
+    },
+    {
+        "cnt": 218,
+        "year": 2024,
+        "sido": "강원특별자치도",
+        "sigungu": "횡성군",
+        "user": 709
+    },
+    {
+        "cnt": 219,
+        "year": 2024,
+        "sido": "강원특별자치도",
+        "sigungu": "이동형 교육",
+        "user": 439
+    },
+    {
+        "cnt": 220,
+        "year": 2024,
+        "sido": "경기도",
+        "sigungu": "가평군",
+        "user": 729
+    },
+    {
+        "cnt": 221,
+        "year": 2024,
+        "sido": "경기도",
+        "sigungu": "고양시",
+        "user": 1540
+    },
+    {
+        "cnt": 222,
+        "year": 2024,
+        "sido": "경기도",
+        "sigungu": "과천시",
+        "user": 236
+    },
+    {
+        "cnt": 223,
+        "year": 2024,
+        "sido": "경기도",
+        "sigungu": "광명시",
+        "user": 2770
+    },
+    {
+        "cnt": 224,
+        "year": 2024,
+        "sido": "경기도",
+        "sigungu": "광주시",
+        "user": 322
+    },
+    {
+        "cnt": 225,
+        "year": 2024,
+        "sido": "경기도",
+        "sigungu": "구리시",
+        "user": 72
+    },
+    {
+        "cnt": 226,
+        "year": 2024,
+        "sido": "경기도",
+        "sigungu": "군포시",
+        "user": 819
+    },
+    {
+        "cnt": 227,
+        "year": 2024,
+        "sido": "경기도",
+        "sigungu": "김포시",
+        "user": 3683
+    },
+    {
+        "cnt": 228,
+        "year": 2024,
+        "sido": "경기도",
+        "sigungu": "남양주시",
+        "user": 251
+    },
+    {
+        "cnt": 229,
+        "year": 2024,
+        "sido": "경기도",
+        "sigungu": "동두천시",
+        "user": 180
+    },
+    {
+        "cnt": 230,
+        "year": 2024,
+        "sido": "경기도",
+        "sigungu": "부천시",
+        "user": 4091
+    },
+    {
+        "cnt": 231,
+        "year": 2024,
+        "sido": "경기도",
+        "sigungu": "성남시",
+        "user": 3014
+    },
+    {
+        "cnt": 232,
+        "year": 2024,
+        "sido": "경기도",
+        "sigungu": "수원시",
+        "user": 9797
+    },
+    {
+        "cnt": 233,
+        "year": 2024,
+        "sido": "경기도",
+        "sigungu": "시흥시",
+        "user": 1962
+    },
+    {
+        "cnt": 234,
+        "year": 2024,
+        "sido": "경기도",
+        "sigungu": "안산시",
+        "user": 2389
+    },
+    {
+        "cnt": 235,
+        "year": 2024,
+        "sido": "경기도",
+        "sigungu": "안성시",
+        "user": 3133
+    },
+    {
+        "cnt": 236,
+        "year": 2024,
+        "sido": "경기도",
+        "sigungu": "안양시",
+        "user": 1324
+    },
+    {
+        "cnt": 237,
+        "year": 2024,
+        "sido": "경기도",
+        "sigungu": "양주시",
+        "user": 325
+    },
+    {
+        "cnt": 238,
+        "year": 2024,
+        "sido": "경기도",
+        "sigungu": "양평군",
+        "user": 687
+    },
+    {
+        "cnt": 239,
+        "year": 2024,
+        "sido": "경기도",
+        "sigungu": "여주시",
+        "user": 1074
+    },
+    {
+        "cnt": 240,
+        "year": 2024,
+        "sido": "경기도",
+        "sigungu": "연천군",
+        "user": 421
+    },
+    {
+        "cnt": 241,
+        "year": 2024,
+        "sido": "경기도",
+        "sigungu": "오산시",
+        "user": 2517
+    },
+    {
+        "cnt": 242,
+        "year": 2024,
+        "sido": "경기도",
+        "sigungu": "용인시",
+        "user": 1340
+    },
+    {
+        "cnt": 243,
+        "year": 2024,
+        "sido": "경기도",
+        "sigungu": "의왕시",
+        "user": 600
+    },
+    {
+        "cnt": 244,
+        "year": 2024,
+        "sido": "경기도",
+        "sigungu": "의정부시",
+        "user": 3220
+    },
+    {
+        "cnt": 245,
+        "year": 2024,
+        "sido": "경기도",
+        "sigungu": "이천시",
+        "user": 744
+    },
+    {
+        "cnt": 246,
+        "year": 2024,
+        "sido": "경기도",
+        "sigungu": "파주시",
+        "user": 633
+    },
+    {
+        "cnt": 247,
+        "year": 2024,
+        "sido": "경기도",
+        "sigungu": "평택시",
+        "user": 672
+    },
+    {
+        "cnt": 248,
+        "year": 2024,
+        "sido": "경기도",
+        "sigungu": "포천시",
+        "user": 444
+    },
+    {
+        "cnt": 249,
+        "year": 2024,
+        "sido": "경기도",
+        "sigungu": "하남시",
+        "user": 793
+    },
+    {
+        "cnt": 250,
+        "year": 2024,
+        "sido": "경기도",
+        "sigungu": "화성시",
+        "user": 1777
+    },
+    {
+        "cnt": 251,
+        "year": 2024,
+        "sido": "경기도",
+        "sigungu": "이동형 교육",
+        "user": 1621
+    },
+    {
+        "cnt": 252,
+        "year": 2024,
+        "sido": "경상남도",
+        "sigungu": "거제시",
+        "user": 2133
+    },
+    {
+        "cnt": 253,
+        "year": 2024,
+        "sido": "경상남도",
+        "sigungu": "거창군",
+        "user": 713
+    },
+    {
+        "cnt": 254,
+        "year": 2024,
+        "sido": "경상남도",
+        "sigungu": "고성군",
+        "user": 791
+    },
+    {
+        "cnt": 255,
+        "year": 2024,
+        "sido": "경상남도",
+        "sigungu": "김해시",
+        "user": 3391
+    },
+    {
+        "cnt": 256,
+        "year": 2024,
+        "sido": "경상남도",
+        "sigungu": "남해군",
+        "user": 938
+    },
+    {
+        "cnt": 257,
+        "year": 2024,
+        "sido": "경상남도",
+        "sigungu": "밀양시",
+        "user": 576
+    },
+    {
+        "cnt": 258,
+        "year": 2024,
+        "sido": "경상남도",
+        "sigungu": "사천시",
+        "user": 2771
+    },
+    {
+        "cnt": 259,
+        "year": 2024,
+        "sido": "경상남도",
+        "sigungu": "산청군",
+        "user": 907
+    },
+    {
+        "cnt": 260,
+        "year": 2024,
+        "sido": "경상남도",
+        "sigungu": "양산시",
+        "user": 4506
+    },
+    {
+        "cnt": 261,
+        "year": 2024,
+        "sido": "경상남도",
+        "sigungu": "의령군",
+        "user": 678
+    },
+    {
+        "cnt": 262,
+        "year": 2024,
+        "sido": "경상남도",
+        "sigungu": "진주시",
+        "user": 7492
+    },
+    {
+        "cnt": 263,
+        "year": 2024,
+        "sido": "경상남도",
+        "sigungu": "창녕군",
+        "user": 3406
+    },
+    {
+        "cnt": 264,
+        "year": 2024,
+        "sido": "경상남도",
+        "sigungu": "창원시",
+        "user": 6915
+    },
+    {
+        "cnt": 265,
+        "year": 2024,
+        "sido": "경상남도",
+        "sigungu": "통영시",
+        "user": 1169
+    },
+    {
+        "cnt": 266,
+        "year": 2024,
+        "sido": "경상남도",
+        "sigungu": "하동군",
+        "user": 666
+    },
+    {
+        "cnt": 267,
+        "year": 2024,
+        "sido": "경상남도",
+        "sigungu": "함안군",
+        "user": 762
+    },
+    {
+        "cnt": 268,
+        "year": 2024,
+        "sido": "경상남도",
+        "sigungu": "함양군",
+        "user": 961
+    },
+    {
+        "cnt": 269,
+        "year": 2024,
+        "sido": "경상남도",
+        "sigungu": "합천군",
+        "user": 578
+    },
+    {
+        "cnt": 270,
+        "year": 2024,
+        "sido": "경상북도",
+        "sigungu": "경산시",
+        "user": 7572
+    },
+    {
+        "cnt": 271,
+        "year": 2024,
+        "sido": "경상북도",
+        "sigungu": "경주시",
+        "user": 3927
+    },
+    {
+        "cnt": 272,
+        "year": 2024,
+        "sido": "경상북도",
+        "sigungu": "고령군",
+        "user": 917
+    },
+    {
+        "cnt": 273,
+        "year": 2024,
+        "sido": "경상북도",
+        "sigungu": "구미시",
+        "user": 7931
+    },
+    {
+        "cnt": 274,
+        "year": 2024,
+        "sido": "경상북도",
+        "sigungu": "김천시",
+        "user": 3727
+    },
+    {
+        "cnt": 275,
+        "year": 2024,
+        "sido": "경상북도",
+        "sigungu": "문경시",
+        "user": 247
+    },
+    {
+        "cnt": 276,
+        "year": 2024,
+        "sido": "경상북도",
+        "sigungu": "봉화군",
+        "user": 60
+    },
+    {
+        "cnt": 277,
+        "year": 2024,
+        "sido": "경상북도",
+        "sigungu": "상주시",
+        "user": 4500
+    },
+    {
+        "cnt": 278,
+        "year": 2024,
+        "sido": "경상북도",
+        "sigungu": "성주군",
+        "user": 256
+    },
+    {
+        "cnt": 279,
+        "year": 2024,
+        "sido": "경상북도",
+        "sigungu": "안동시",
+        "user": 4041
+    },
+    {
+        "cnt": 280,
+        "year": 2024,
+        "sido": "경상북도",
+        "sigungu": "영덕군",
+        "user": 242
+    },
+    {
+        "cnt": 281,
+        "year": 2024,
+        "sido": "경상북도",
+        "sigungu": "영양군",
+        "user": 23
+    },
+    {
+        "cnt": 282,
+        "year": 2024,
+        "sido": "경상북도",
+        "sigungu": "영주시",
+        "user": 2637
+    },
+    {
+        "cnt": 283,
+        "year": 2024,
+        "sido": "경상북도",
+        "sigungu": "영천시",
+        "user": 1701
+    },
+    {
+        "cnt": 284,
+        "year": 2024,
+        "sido": "경상북도",
+        "sigungu": "예천군",
+        "user": 1807
+    },
+    {
+        "cnt": 285,
+        "year": 2024,
+        "sido": "경상북도",
+        "sigungu": "울릉군",
+        "user": 427
+    },
+    {
+        "cnt": 286,
+        "year": 2024,
+        "sido": "경상북도",
+        "sigungu": "울진군",
+        "user": 563
+    },
+    {
+        "cnt": 287,
+        "year": 2024,
+        "sido": "경상북도",
+        "sigungu": "의성군",
+        "user": 75
+    },
+    {
+        "cnt": 288,
+        "year": 2024,
+        "sido": "경상북도",
+        "sigungu": "청도군",
+        "user": 1874
+    },
+    {
+        "cnt": 289,
+        "year": 2024,
+        "sido": "경상북도",
+        "sigungu": "청송군",
+        "user": 634
+    },
+    {
+        "cnt": 290,
+        "year": 2024,
+        "sido": "경상북도",
+        "sigungu": "칠곡군",
+        "user": 2188
+    },
+    {
+        "cnt": 291,
+        "year": 2024,
+        "sido": "경상북도",
+        "sigungu": "포항시",
+        "user": 4284
+    },
+    {
+        "cnt": 292,
+        "year": 2024,
+        "sido": "경상북도",
+        "sigungu": "이동형 교육",
+        "user": 85
+    },
+    {
+        "cnt": 293,
+        "year": 2024,
+        "sido": "광주광역시",
+        "sigungu": "광산구",
+        "user": 2078
+    },
+    {
+        "cnt": 294,
+        "year": 2024,
+        "sido": "광주광역시",
+        "sigungu": "남구",
+        "user": 3183
+    },
+    {
+        "cnt": 295,
+        "year": 2024,
+        "sido": "광주광역시",
+        "sigungu": "동구",
+        "user": 4225
+    },
+    {
+        "cnt": 296,
+        "year": 2024,
+        "sido": "광주광역시",
+        "sigungu": "북구",
+        "user": 6347
+    },
+    {
+        "cnt": 297,
+        "year": 2024,
+        "sido": "광주광역시",
+        "sigungu": "서구",
+        "user": 2099
+    },
+    {
+        "cnt": 298,
+        "year": 2024,
+        "sido": "대구광역시",
+        "sigungu": "군위군",
+        "user": 114
+    },
+    {
+        "cnt": 299,
+        "year": 2024,
+        "sido": "대구광역시",
+        "sigungu": "남구",
+        "user": 3538
+    },
+    {
+        "cnt": 300,
+        "year": 2024,
+        "sido": "대구광역시",
+        "sigungu": "달서구",
+        "user": 10166
+    }
+]
