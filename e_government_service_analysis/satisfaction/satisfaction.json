@@ -1,0 +1,132 @@
+[
+    {
+        "cnt": 1,
+        "year": "2012",
+        "teen": "0",
+        "twenty": "0",
+        "thirty": "0",
+        "forty": "0",
+        "fifty": "0",
+        "sixty_and_over": "0"
+    },
+    {
+        "cnt": 2,
+        "year": "2013",
+        "teen": "0",
+        "twenty": "0",
+        "thirty": "0",
+        "forty": "0",
+        "fifty": "0",
+        "sixty_and_over": "0"
+    },
+    {
+        "cnt": 3,
+        "year": "2014",
+        "teen": "87.6",
+        "twenty": "83.8",
+        "thirty": "88.1",
+        "forty": "84.2",
+        "fifty": "87.9",
+        "sixty_and_over": "80.4"
+    },
+    {
+        "cnt": 4,
+        "year": "2015",
+        "teen": "93.9",
+        "twenty": "92.7",
+        "thirty": "95.4",
+        "forty": "95.4",
+        "fifty": "92.5",
+        "sixty_and_over": "87.0"
+    },
+    {
+        "cnt": 5,
+        "year": "2016",
+        "teen": "97.8",
+        "twenty": "96.3",
+        "thirty": "97.3",
+        "forty": "96.3",
+        "fifty": "95.2",
+        "sixty_and_over": "90.9"
+    },
+    {
+        "cnt": 6,
+        "year": "2017",
+        "teen": "95.8",
+        "twenty": "97.7",
+        "thirty": "97.7",
+        "forty": "97.3",
+        "fifty": "96.6",
+        "sixty_and_over": "92.1"
+    },
+    {
+        "cnt": 7,
+        "year": "2018",
+        "teen": "96.5",
+        "twenty": "98.4",
+        "thirty": "97.8",
+        "forty": "98.3",
+        "fifty": "96.9",
+        "sixty_and_over": "93.4"
+    },
+    {
+        "cnt": 8,
+        "year": "2019",
+        "teen": "97.1",
+        "twenty": "98.1",
+        "thirty": "97.2",
+        "forty": "98.6",
+        "fifty": "97.8",
+        "sixty_and_over": "97.7"
+    },
+    {
+        "cnt": 9,
+        "year": "2020",
+        "teen": "96.3",
+        "twenty": "99.7",
+        "thirty": "98.4",
+        "forty": "97.6",
+        "fifty": "98.0",
+        "sixty_and_over": "96.8"
+    },
+    {
+        "cnt": 10,
+        "year": "2021",
+        "teen": "97.3",
+        "twenty": "98.9",
+        "thirty": "98.9",
+        "forty": "98.5",
+        "fifty": "96.4",
+        "sixty_and_over": "96.3"
+    },
+    {
+        "cnt": 11,
+        "year": "2022",
+        "teen": "97.4",
+        "twenty": "98.2",
+        "thirty": "97",
+        "forty": "98",
+        "fifty": "97.6",
+        "sixty_and_over": "97.8"
+    },
+    {
+        "cnt": 12,
+        "year": "2023",
+        "teen": "91.9",
+        "twenty": "95.9",
+        "thirty": "95.1",
+        "forty": "94.8",
+        "fifty": "93.9",
+        "sixty_and_over": "90"
+    },
+    {
+        "cnt": 13,
+        "year": "2024",
+        "teen": "96.2",
+        "twenty": "98.4",
+        "thirty": "97.6",
+        "forty": "97.3",
+        "fifty": "98.2",
+        "sixty_and_over": "96.8"
+    }
+]
