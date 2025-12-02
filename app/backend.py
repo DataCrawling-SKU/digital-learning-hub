@@ -1,6 +1,7 @@
 from fastapi import FastAPI
 import pandas as pd
-import os 
+import os
+import requests
 
 app = FastAPI()
 
