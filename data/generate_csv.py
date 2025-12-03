@@ -4,8 +4,8 @@ import os
 
 # 한국지능정보사회진흥원 디지털배움터 교육장 현황 api url
 API_URL = 'https://api.odcloud.kr/api/15134509/v1/uddi:7172b895-8193-44c1-a3c7-c52322104653'
-API_KEY = '0VGmzq6hyxxRhjYc0ZS1Fq2tHHoBnbBYMKCMbDKtnebtUS44dvI%2B0GuldwLIW3nk7d4rqcxFsPss9Fm6RQlWRQ%3D%3D'
-SERVICE_KEY = '0VGmzq6hyxxRhjYc0ZS1Fq2tHHoBnbBYMKCMbDKtnebtUS44dvI+0GuldwLIW3nk7d4rqcxFsPss9Fm6RQlWRQ=='
+API_KEY = ''
+SERVICE_KEY = ''
 
 def call_all_data():
     all_data = []
